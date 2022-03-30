@@ -1,0 +1,26 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-03-30T08:54:33Z",
+  "id": "appsheets.github.io",
+  "duration": 0,
+  "title": "Appsheet Resources",
+  "authors": "TAN KOK CHENG",
+  "summary": "Appsheet Guide",
+  "source": "1E9GQAQRSb-e8tnxewWoJqbJ7aAGPFRCdeRhGOmkmd34",
+  "theme": "web",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "Web"
+  ],
+  "tags": [
+    "kiosk",
+    "web"
+  ],
+  "feedback": "https://myoutsystems.github.io",
+  "url": "appsheets.github.io"
+}
